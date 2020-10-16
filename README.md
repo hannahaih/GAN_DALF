@@ -1,13 +1,17 @@
 # GAN-DALF
-## teaching GAN-DALF to make art
+teaching GAN-DALF to make art
+
+
 
 
 Ironhack Data Science Graduation Project
 
 
 
-#### Hannah Reber
+Hannah Reber
 09.10.2020, Berlin
+
+
 
 
 
