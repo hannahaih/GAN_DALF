@@ -4,12 +4,20 @@ teaching GAN-DALF to make art
 
 
 
-Ironhack Data Science Graduation Project
+
+
+
+Graduation Project Data Science, Ironhack Berlin
 
 
 
 Hannah Reber
+
+
 09.10.2020, Berlin
+
+
+
 
 
 
