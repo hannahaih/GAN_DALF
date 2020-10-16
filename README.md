@@ -1,2 +1,2 @@
-# GAN_DALF
+# GAN-DALF
 teaching GAN-DALF to make art
