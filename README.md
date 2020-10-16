@@ -7,7 +7,7 @@ teaching GAN-DALF to make art
 
 
 
-Graduation Project Data Science, Ironhack Berlin
+#### Graduation Project Data Science, Ironhack Berlin
 
 
 
@@ -23,7 +23,7 @@ Hannah Reber
 
 
 
-## Welcome!
+# Welcome!
 This is the 1st generation status of project GAN-DALF after 30 sessions (each with 50 epochs of trainig)
 
 ## Content
